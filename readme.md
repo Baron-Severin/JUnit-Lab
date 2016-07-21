@@ -32,6 +32,7 @@ Using the code from a previous lab - where we created and worked with an Animal 
 ##### Bonus
 
 - Create a new animal and write appropriate tests for it
+- Create a listview. Write an appropriate test for it
 
 #### Starter code
 
